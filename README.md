@@ -2,7 +2,7 @@
 
 ## This repository consists of solutions to laboratory tasks and to 3 bigger projects
 
-### Project 1 - various methods of matrix multiplication
+### Project 1 - Various methods of matrix multiplication
 
 ### Project 2 - FFT and some stuff
 
