@@ -23,3 +23,11 @@
 #### Lab 6 - multi-threaded program that determines value of PI
 
 ####  Lab 7 - c2f, f2c, more multi-threading 
+
+#
+
+![alt_text](https://raw.githubusercontent.com/jakubowiczish/fortran/master/fortnite.jpg)
+
+![alt_text](https://raw.githubusercontent.com/jakubowiczish/fortran/master/fortnite2.jpg)
+
+![alt_text](https://raw.githubusercontent.com/jakubowiczish/fortran/master/fortnite3.jpg)
